@@ -1,3 +1,4 @@
+
 # QuietPages - Astro Magazine Theme
 
 [![Quiet Pages theme preview](./preview.webp)](https://quietpages-eta.vercel.app/)
