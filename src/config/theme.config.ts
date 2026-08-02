@@ -1,7 +1,7 @@
 const siteUrl = (
   import.meta.env.SITE_URL ||
   import.meta.env.PUBLIC_SITE_URL ||
-  "https://nardiyansah-tj.github.io"
+  "https://rn-travel.github.io"
 ).replace(/\/$/, "");
 
 export const SITE = {
@@ -11,7 +11,7 @@ export const SITE = {
   url: siteUrl,
   locale: "en-US",
   language: "en",
-  repositoryUrl: "https://github.com/nardiyansah-tj/nardiyansah-tj",
+  repositoryUrl: "https://github.com/",
 };
 
 export const NAVIGATION = [
